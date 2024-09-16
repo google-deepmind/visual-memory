@@ -1,7 +1,7 @@
 # Code for "Towards flexible perception with visual memory"
 
-This repository contains code to replicate experiments from "Towards flexible
-perception with visual memory" by Robert Geirhos, Priyank Jaini, Austin Stone,
+This repository contains code to replicate experiments from "[Towards flexible
+perception with visual memory](https://arxiv.org/abs/2408.08172)" by Robert Geirhos, Priyank Jaini, Austin Stone,
 Sourabh Medapati, Xi Yi, George Toderici, Abhijit Ogale, and Jonathon Shlens.
 
 ## Setup
