@@ -31,16 +31,17 @@ And the filename indicates the dataset used for memory and testing, respectively
 
 ## Citation
 ```
-@article{geirhos2023fooling,
-  url = {https://arxiv.org/abs/TBD},
+@article{geirhos2023flexible,
+  url = {https://arxiv.org/abs/2408.08172},
   author = {Geirhos, Robert and Jaini, Priyank and Stone, Austin and Medapati, Sourabh and Yi, Xi and Toderici, George and Ogale, Abhijit and Shlens, Jonathon},
   title = {Towards flexible perception with visual memory},
-  journal={arXiv preprint arXiv:TBD},
+  journal={arXiv preprint arXiv:2408.08172},
   year = {2024},
 ```
 
 ## License and disclaimer
 Copyright 2024 DeepMind Technologies Limited
+
 All software is licensed under the Apache License, Version 2.0 (Apache 2.0);
 you may not use this file except in compliance with the Apache 2.0 license.
 You may obtain a copy of the Apache 2.0 license at:
