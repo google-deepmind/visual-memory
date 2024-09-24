@@ -10,7 +10,7 @@ libraries like numpy and jax, but do not require installing packages.
 
 ## Overview
 [![nearest_neighbor_evaluation.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/visual_memory/blob/master/code/nearest_neighbor_evaluation.ipynb) The colab `nearest_neighbor_evaluation.ipynb` extracts nearest neighbor information from
-running datasets like ImageNet and stores the results as `.JSON` files just like the ones listed below under `Evaluation data`.
+running datasets like ImageNet and stores the results as `.JSON` files just like the ones listed below under [Evaluation data](https://github.com/google-deepmind/visual-memory?tab=readme-ov-file#evaluation-data).
 
 [![main_analysis_plots.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/visual_memory/blob/master/code/main_analysis_plots.ipynb) The colab `main_analysis_plots.ipynb` reads those `.JSON` files, analyzes and plots the results.
 
